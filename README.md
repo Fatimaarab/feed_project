@@ -47,7 +47,7 @@ readme wr : Fatemeh Ebrahimi , Sina Tvakoli , Elahe Shafiei
 | Fatemeh Ebrahimi |Development team| fatemehebrahimi8 |
 | Mahdieh Talebi | Development team|mahdiyehtalebi |
 | Zahra Shokrollahi | Scrum master | Zshokrollahi |
-| Elahe Shafiei | Development team | elaheshafie |
+| Elahe Shafiei | Development team | elaheShafie |
 | Mahdi Mohebbi | Development team| mahdi8180 |
 | Sina Tavakoli | Development team| Sina00tavakoli|
 | Mohammad Ghavampour | Development team | Row 8, Col 3 |
