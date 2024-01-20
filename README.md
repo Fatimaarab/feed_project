@@ -25,7 +25,7 @@ Please make sure to update discussion as appropriate.
 our PO (product owner) is mrs Fatime Arababadi.
 email : Fatimaarab29@gmail.com
 our UI Designer is mrs Zahra Shokrollahi.
-email:
+email : @zahrashkrolahi@gmail.com
 
 
 | name | role | id |
@@ -33,8 +33,8 @@ email:
 | Fatemeh Arababadi |Product Owner| Fatimaar |
 | Fatemeh Ebrahimi |Development team| fatemehebrahimi8 |
 | Mahdieh Talebi | Development team| Row 3, Col 3 |
-| Zahra Shokrollahi | Scrum master | Row 4, Col 3 |
+| Zahra Shokrollahi | Scrum master | Zshokrollahi |
 | Elahe Shafiei | Development team | Row 5, Col 3 |
-| Mahdi Mohebbi | Development team| Row 6, Col 3 |
-| Sina Tavakoli | Development team| Row 7, Col 3 |
+| Mahdi Mohebbi | Development team| mahdi8180 |
+| Sina Tavakoli | Development team| Sina00tavakoli|
 | Mohammad Ghavampour | Development team | Row 8, Col 3 |
