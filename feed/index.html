@@ -2,46 +2,69 @@
 <html lang="fa-IR" dir="rtl">
   <head>
     <meta charset="UTF-8" />
-    <title>خبر روز</title>
-    <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./CSS/popup.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>دسته‌بندی‌ها</title>
   </head>
   <body>
-    <div id="pre_loader"></div>
     <main>
       <!-- header -->
       <header>
         <!-- logo -->
         <div class="main_logo">
-          <img src="./assets/Images/logo.png" alt="main logo" />
+          <img src="../assets/Images/logo.png" alt="main logo" />
         </div>
         <!-- navigation -->
         <nav class="main_header_nav">
           <ul>
             <li>
-              <a href="./bookmarks/index.html">
-                <img src="./assets/Logos/bookmark.svg" alt="saved feeds page"
+              <a href="../bookmarks/index.html">
+                <img src="../assets/Logos/bookmark.svg" alt="saved feeds page"
               /></a>
             </li>
             <li>
-              <a href="./folders/index.html"
-                ><img src="./assets/Logos/folder.svg" alt="feeds folder page"
+              <a href="../folders/index.html">
+                <img src="../assets/Logos/folder.svg" alt="feeds folder page"
               /></a>
             </li>
-            <li><img src="./assets/Logos/menu.svg" alt="feeds page" /></li>
             <li>
-              <a href="./search/index.html">
-                <img src="./assets/Logos/search.svg" alt="search feeds page"
+              <a href="../feeds/index.html"
+                ><img src="../assets/Logos/menu.svg" alt="feeds page"
               /></a>
             </li>
-            <li><img src="./assets/Logos/plus.svg" alt="add feeds page" /></li>
+            <li>
+              <img
+                src="../assets/Logos/search-active.svg"
+                alt="search feeds page"
+              />
+            </li>
+            <li>
+              <a href="../new-feed/index.html"
+                ><img src="../assets/Logos/plus.svg" alt="add feeds page"
+              /></a>
+            </li>
           </ul>
         </nav>
       </header>
       <!-- content -->
-      <div></div>
+      <div id="container">
+        <div>
+          <form id="search_form">
+            <div class="input_container">
+              <input
+                type="text"
+                id="search_input"
+                placeholder="جستجو..."
+              /><span
+                ><img src="../assets/Logos/search-active.svg" alt=""
+              /></span>
+            </div>
+          </form>
+        </div>
+        <div id="categories"></div>
+        <div id="search_result"></div>
+      </div>
     </main>
-    <script src="./js/main.js"></script>
+    <script src="main.js"></script>
   </body>
 </html>
