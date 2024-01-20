@@ -28,7 +28,6 @@ Using our site is simple and intuitive:
 ## Contributing
 >**Pull requests are welcome**. For major changes, please open an issue first
 to discuss what you would like to change.don't worry, we'll make it.
-
 Please make sure to update discussion as appropriate.
 
 ## Who is this ?
@@ -48,7 +47,7 @@ readme wr : Fatemeh Ebrahimi , Sina Tvakoli , Elahe Shafiei
 | Fatemeh Ebrahimi |Development team| fatemehebrahimi8 |
 | Mahdieh Talebi | Development team|mahdiyehtalebi |
 | Zahra Shokrollahi | Scrum master | Zshokrollahi |
-| Elahe Shafiei | Development team | Row 5, Col 3 |
+| Elahe Shafiei | Development team | elaheshafie |
 | Mahdi Mohebbi | Development team| mahdi8180 |
 | Sina Tavakoli | Development team| Sina00tavakoli|
 | Mohammad Ghavampour | Development team | Row 8, Col 3 |
